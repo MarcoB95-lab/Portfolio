@@ -12,4 +12,3 @@ How to run it?
 3) npm install
 4) npm start
    
->>>>>>> 0e097a30446fccaea819a279aee0b33627b4579d
